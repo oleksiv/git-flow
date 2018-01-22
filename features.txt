@@ -6,3 +6,4 @@ Hotfix Feature 4
 Hotfix Feature 4
 Master Feature 5
 Master Feature 6
+Master Feature 7
