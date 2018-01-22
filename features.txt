@@ -3,3 +3,4 @@ Feature 4
 Feature 4
 Hotfix Feature 4
 Hotfix Feature 4
+Hotfix Feature 4
